@@ -15,4 +15,4 @@ Last training courses
 ### Follow Me
 [![VK](https://shields.fly.dev/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id71696038)
 ![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)
-[![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](@Fisher060996)
+[![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/@Fisher060996)
