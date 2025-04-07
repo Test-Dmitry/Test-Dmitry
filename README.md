@@ -2,11 +2,10 @@
 
 ## Я - начинающий тестировщик, имеющий опыт работы в большой энергетике 
 
-### Last training courses
+### Пройденный курс
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0+%D0%BD%D0%B0+%D0%BA%D1%83%D1%80%D1%81%D1%8B)](https://stepik.org/course/171826/syllabus)
 
 ### Languages & Tools
-Тестовая документация:\
 ![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)
 ![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)
 ![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
@@ -19,6 +18,7 @@
 [![VK](https://shields.fly.dev/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id71696038)
 ![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)
 [![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/Fisher060996)
+[![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dditiatiev@mail.ru)
 
 ### Тестовая документация
 
