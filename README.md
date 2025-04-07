@@ -7,7 +7,7 @@
 <!-- Stepik:END -->
 
 ### Languages & Tools
-Тестовая документация:
+Тестовая документация:\
 ![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)
 ![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)
 ![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
