@@ -41,7 +41,7 @@
 [![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dditiatiev@mail.ru)
 
 ## Мое резюме 
-- Ознакомиться с резюме можно [здесь](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Резюме_QA_Дитятев%20Д.С.pdf?raw=true) 
+- Ознакомиться с резюме можно [здесь](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Резюме_QA_Дитятев%20Д.С.pdf) 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Test-Dmitry&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
