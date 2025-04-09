@@ -12,11 +12,11 @@
 ![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)
 ![SoapUI](https://shields.fly.dev/badge/-SOAPUI-FFFF66?style=for-the-badge&logo=)
 ![Swagger](https://shields.fly.dev/badge/-Swagger-cc3300?style=for-the-badge&logo=Swagger)
-<img src="https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue" width="100" />
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### 📁Приложения для тестовой документации
 ![Jira](https://shields.fly.dev/badge/-Jira-003399?style=for-the-badge&logo=jira)
-![Test-it](https://shields.fly.dev/badge/-TestIt-130?style=for-the-badge&logo=test-it)
+![Test IT](https://img.shields.io/badge/-Test%20IT-8A2BE2?style=for-the-badge&logo=data&logoColor=white)
 
 ### 💾 Работа с данными
 ![MySQL](https://shields.fly.dev/badge/-MYSQL-66FFFF?style=for-the-badge&logo=mysql)
