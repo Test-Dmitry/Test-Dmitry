@@ -9,7 +9,7 @@
 
 ### 📁 Ссылки на некоторые наработки
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
-- <a href="https://lively-space-246319.postman.co/workspace/Дмитрий~b706eef1-4447-4415-9e1e-966323e3f921/quickstart" target="_blank">Ссылка на коллекцию в Postman</a>
+- <a href="https://www.postman.com/lively-space-246319/workspace/for-resume/collection/43323835-f44054e4-42e2-44e5-8fa4-a8f0a48ebdd6?action=share&creator=43323835" target="_blank">Ссылка на 1-ю коллекцию Postman</a> / <a href="https://www.postman.com/lively-space-246319/workspace/for-resume/collection/43323835-5fcc5c2a-a7cc-41ee-a2b0-ccbc1d01ca0a?action=share&creator=43323835" target="_blank">Ссылка на 2-ю коллекцию в Postman</a>
 - <a href="https://drive.google.com/drive/folders/1i4406OktZb4upoVCMBmj5R1LD4QiuJw1?usp=drive_link" target="_blank">Ссылка на тестовую документацию</a>
 
 ### 🛠 Тестирование веб-приложений
