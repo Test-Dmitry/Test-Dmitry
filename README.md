@@ -5,7 +5,7 @@
 ## 📖 Пройденные курсы / сертификаты
 [🟢Курсы Артема Русова на Stepik.org](https://stepik.org/course/171826/syllabus) / [📜Сертификат](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Сертификат_от_Stepik.pdf)
 
-[🟢Тренажер от Александра Мешкова {test}Grow](https://stepik.org/course/171826/syllabus) / [🛠️Сертификат](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Сертификат_от_TestGrow.pdf)
+[🟢Тренажер от Александра Мешкова {test}Grow](https://testgrow.ru/practice_main) / [🛠️Сертификат](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Сертификат_от_TestGrow.pdf)
 
 ### 📁 Ссылки на некоторые наработки
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
