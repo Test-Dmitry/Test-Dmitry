@@ -3,7 +3,8 @@
 ## Я - начинающий тестировщик, имеющий опыт работы в большой энергетике 
 
 ### Пройденный курс
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0+%D0%BD%D0%B0+%D0%BA%D1%83%D1%80%D1%81%D1%8B)](https://stepik.org/course/171826/syllabus)
+- <a href="https://stepik.org/course/171826/syllabus" target="_blank">Курсы Артема Русова на stepik.org</a>
+- <a href="https://testgrow.ru/practice_main" target="_blank">Тренажер от Александра Мешкова {test}Grow</a>
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
 - <a href="https://lively-space-246319.postman.co/workspace/Дмитрий~b706eef1-4447-4415-9e1e-966323e3f921/quickstart" target="_blank">Ссылка на коллекцию в Postman</a>
 - <a href="https://drive.google.com/drive/folders/1i4406OktZb4upoVCMBmj5R1LD4QiuJw1?usp=drive_link" target="_blank">Ссылка на тестовую документацию</a>
