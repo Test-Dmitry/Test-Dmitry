@@ -2,9 +2,12 @@
 
 ## Я - начинающий тестировщик, имеющий опыт работы в большой энергетике 
 
-### Пройденный курс
-- <a href="https://stepik.org/course/171826/syllabus" target="_blank">Курсы Артема Русова на stepik.org</a>
-- <a href="https://testgrow.ru/practice_main" target="_blank">Тренажер от Александра Мешкова {test}Grow</a>
+## 📖 Пройденные курсы / сертификаты
+<a href="https://stepik.org/course/171826/syllabus" target="_blank" style="color:green;">Курсы Артема Русова на Stepik.org</a> / [📜Сертификат](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Сертификат_от_Stepik.pdf)
+
+<a href="https://testgrow.ru/practice_main" target="_blank" style="color:orange;">Тренажер от Александра Мешкова {test}Grow</a> / [🛠️Сертификат](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Сертификат_от_TestGrow.pdf)
+
+### 📁 Ссылки на некоторые наработки
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
 - <a href="https://lively-space-246319.postman.co/workspace/Дмитрий~b706eef1-4447-4415-9e1e-966323e3f921/quickstart" target="_blank">Ссылка на коллекцию в Postman</a>
 - <a href="https://drive.google.com/drive/folders/1i4406OktZb4upoVCMBmj5R1LD4QiuJw1?usp=drive_link" target="_blank">Ссылка на тестовую документацию</a>
