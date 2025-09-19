@@ -9,8 +9,8 @@
 
 ### 📁 Ссылки на некоторые наработки
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
-- <a href="https://www.postman.com/lively-space-246319/workspace/for-resume/collection/43323835-f44054e4-42e2-44e5-8fa4-a8f0a48ebdd6?action=share&creator=43323835" target="_blank">Ссылка на 1-ю коллекцию Postman</a> / <a href="https://www.postman.com/lively-space-246319/workspace/for-resume/collection/43323835-5fcc5c2a-a7cc-41ee-a2b0-ccbc1d01ca0a?action=share&creator=43323835" target="_blank">Ссылка на 2-ю коллекцию в Postman</a>
-- <a href="https://drive.google.com/drive/folders/1i4406OktZb4upoVCMBmj5R1LD4QiuJw1?usp=drive_link" target="_blank">Ссылка на тестовую документацию</a>
+- <a href="https://github.com/Test-Dmitry/API_Postman" target="_blank">Ссылка на две коллекции Postman</a>
+- <a href="https://github.com/Test-Dmitry/Testing-documentation" target="_blank">Ссылка на тестовую документацию</a>
 - <a href="https://github.com/Test-Dmitry/Calculator.git" target="_blank">Ссылка на первый опыт Unit-tests</a>
 - <a href="https://github.com/Test-Dmitry/First_UI_autotests" target="_blank">Ссылка на первые UI autotests</a>
 
@@ -38,7 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   </div>
+  
 
 ### Ссылки на социальные сети
 [![VK](https://shields.fly.dev/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id71696038)
