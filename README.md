@@ -11,8 +11,7 @@
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
 - <a href="https://github.com/Test-Dmitry/API_Postman" target="_blank">Ссылка на две коллекции Postman</a>
 - <a href="https://github.com/Test-Dmitry/Testing-documentation" target="_blank">Ссылка на тестовую документацию</a>
-- <a href="https://github.com/Test-Dmitry/Calculator.git" target="_blank">Ссылка на первый опыт Unit-tests</a>
-- <a href="https://github.com/Test-Dmitry/First_UI_autotests" target="_blank">Ссылка на первые UI autotests</a>
+- <a href="https://github.com/Test-Dmitry/QA_Automation.git" target="_blank">Ссылка на первый опыт в QA автоматизации</a>
 
 ### 🛠 Тестирование веб-приложений
 ![Postman](https://shields.fly.dev/badge/-Postman-CCFF66?style=for-the-badge&logo=postman)
