@@ -9,6 +9,7 @@
 
 ### 📁 Ссылки на некоторые наработки
 - <a href="https://github.com/Test-Dmitry/Select-from-MySQL.git" target="_blank">Ссылка на репозиторий SQL запросов</a>
+- <a href="https://github.com/Test-Dmitry/2GIS_Test" target="_blank">Ссылка на проект API-тестов (Postman + Java)</a>
 - <a href="https://github.com/Test-Dmitry/API_Postman" target="_blank">Ссылка на две коллекции Postman</a>
 - <a href="https://github.com/Test-Dmitry/Testing-documentation" target="_blank">Ссылка на тестовую документацию</a>
 - <a href="https://github.com/Test-Dmitry/QA_Automation.git" target="_blank">Ссылка на первый опыт в QA автоматизации</a>
