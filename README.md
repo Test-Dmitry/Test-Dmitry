@@ -44,9 +44,9 @@
 
 ### Ссылки на социальные сети
 [![VK](https://shields.fly.dev/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id71696038)
-[![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)](www.linkedin.com/in/test-dmitry)
-[![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/Fisher060996)
-[![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dditiatiev@mail.ru)
+[![LinkedIn](https://shields.fly.dev/badge/-LinkedIN-090909?style=for-the-badge&logo=LinkedIN)](https://www.linkedin.com/in/test-dmitry)
+[![telegram](https://shields.fly.dev/badge/-Tg-090909?style=for-the-badge&logo=telegram)](https://t.me/@Dimon0996)
+[![Email](https://shields.fly.dev/badge/-Email-090909?style=for-the-badge&)](mailto:dditiatiev@gmail.com)
 
 ## Мое резюме 
 - Ознакомиться с резюме можно [здесь](https://github.com/Test-Dmitry/Test-Dmitry/blob/main/Junior_QA_Дитятев.pdf) 
